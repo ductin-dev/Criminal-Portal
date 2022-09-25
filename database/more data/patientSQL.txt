@@ -1,0 +1,2672 @@
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Huân Nghiệp- Mỹ An- Ngũ Hành Sơn-  Đà Nẵng ', 16.03895, 108.22781, 1029, 'P.T.B ', 0
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Huân Nghiệp- Mỹ An- Ngũ Hành Sơn-  Đà Nẵng ', 16.03859, 108.23881, 1028, 'Đ.T. T. T. L ', 0
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Huân Nghiệp- Mỹ An- Ngũ Hành Sơn-  Đà Nẵng ', 16.03489, 108.24781, 1027, 'P.V.C', 0
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Huân Nghiệp- Mỹ An- Ngũ Hành Sơn-  Đà Nẵng ', 16.03889, 108.23781, 1026, 'P. T. T. T ', 0
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Huân Nghiệp- Mỹ An- Ngũ Hành Sơn-  Đà Nẵng ', 16.03889, 108.23781, 1025, 'P.Q  ', 0
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 4-  thôn Yến Nê 1- Hòa Tiến-  Hòa Vang-  Đà Nẵng ', 11.06044, 106.45819, 1024, 'N.T. T. H  ', 0
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 4-  thôn Yến Nê 1- Hòa Tiến-  Hòa Vang-  Đà Nẵng ', 11.06044, 106.45819, 1023, 'N.P.H ', 0
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Địa chỉ phòng trọ:  đường Âu Cơ-  phường Hòa Khánh Bắc-  quận Liên Chiểu-  Tp. Đà Nẵng ', 16.07467, 108.1342, 1020, 'P.H.T', 0
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'   K14/H20 Bùi Chát-  phường Hòa Khánh Bắc-  quận Liên Chiểu-  TP Đà Nẵng  ', 16.08526, 108.1432, 1019, 'P.T.L', 0
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Hải Châu 2-  Hải Châu-  Đà Nẵng ', 16.0661, 108.21615, 1018, 'Đ.C.L', 0
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Huân Nghiệp- Mỹ An- Ngũ Hành Sơn-  Đà Nẵng ', 16.03889, 108.23781, 1017, 'N.T.B ', 0
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thị trấn Nam Phước-  huyện Duy Xuyên-  tỉnh Quảng Nam ', 15.85188, 108.2611, 1015, 'N.T.B.P ', 0
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K278 Trần Cao Vân-  phường Xuân Hà-  quận Thanh Khê-  TP Đà Nẵng.  ', 16.07113, 108.19874, 1014, 'L.T ', 0
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hoàng Tích Trí-  phường Thuận Phước-  quận Hải Châu- TP Đà Nẵng   ', 16.08997, 108.21699, 1013, 'H.T.L.T', 1
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  đường Đỗ Quang-  phường Vĩnh Trung-  quận Thanh Khê- TP Đà Nẵng  ', 16.06012, 108.21207, 1012, 'T. T. S  ', 1
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K110 Phan Thanh-  phường Thạc Gián-  quận Thanh Khê- TP Đà Nẵng   ', 16.06206, 108.20853, 1011, 'T. T. M. H ', 0
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  tổ 1- phường Hòa Hiệp Bắc-  quận Liên Chiểu- TP Đà Nẵng  ', 16.14377, 108.12222, 1010, 'N.V.C  ', 0
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu chung cư số 1 đường Lê Phụ Trần-  phường Nại Hiên Đông-  quận Sơn Trà- TP Đà Nẵng  ', 16.08911, 108.23903, 1009,  N' Đ.D.V     ', 0
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 4- thôn Yến Nê 1-  xã Hòa Tiến-  huyện Hòa Vang- TP Đà Nẵng  ', 15.96803, 108.13939, 1008, 'N.T.N  ', 0
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 2 thị trấn Châu Ổ-  huyện Bình Sơn-  tỉnh Quảng Ngãi  ', 15.29569, 108.76256, 1006, 'N.T. T. N', 0
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Trước Đông-  xã Hòa Nhơn-  huyện Hòa Vang-  Tp. Đà Nẵng  ', 15.99691, 108.21086, 1005, 'H.T.N', 1
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn 8- xã An Ninh Đông-  huyện Tuy An- tỉnh Phú Yên ', 13.34216, 109.26603, 1004, 'H.T.M.T', 0
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Dương Vân Nga-  tổ 60- phường Mân Thái-  quận Sơn Trà- TP Đà Nẵng  ', 16.08953, 108.24013, 1003, 'P.T.L', 0
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn 9- xã Quế Phú-  huyện Quế Sơn-  tỉnh Quảng Nam ', 15.79514, 108.31424, 1002, 'N.T.B ', 0
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K882 Trường Chinh-  phường Hòa Phát-  quận Cẩm Lệ- TP Đà Nẵng ', 16.03157, 108.18885, 1001, 'N.P.L.P', 0
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Địa chỉ nhà trọ:  tổ 2 thị trấn Châu Ổ-  huyện Bình Sơn-  tỉnh Quảng Ngãi   ', 15.29569, 108.76256, 998, 'T.V.T ', 0
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  thôn Phú Trung-  xã Đại Hiệp-  huyện Đại Lộc-  tỉnh Quảng Nam.  ', 15.91783, 108.12622, 997, 'T. T. T. N', 0
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Trung Phước 2-  xã Quế Trung-  huyện Nông Sơn-  tỉnh Quảng Nam  ', 15.71938, 108.05984, 996, 'P.H.T ', 0
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Bích Bắc-  xã Điện Hòa-  thị xã Điện Bàn-  tỉnh Quảng Nam  ', 15.93362, 108.19376, 995, 'N. T. T     ', 0
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Bình Trọng-  phường Phước Ninh-  quận Hải Châu-  Tp. Đà Nẵng.  ', 16.066, 108.21872, 994, 'N.N.K.T ', 0
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  tổ 45- phường Khuê Trung-  quận Cẩm Lệ- TP Đà Nẵng   ', 16.03356, 108.2115, 992, 'T. T. P. T ', 0
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Địa chỉ phòng trọ:  đường Tôn Đản-  phường Hòa An-  quận Cẩm Lệ- TP Đà Nẵng.  ', 16.0486, 108.18128, 990, 'T. T. T. H ', 0
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Địa chỉ nhà trọ:  tổ 3 thôn Yến Nê 2-  xã Hòa Tiến-  huyện Hòa Vang- Tp. Đà Nẵng   ', 13.2904, 108.4265, 988, 'T.N.N  ', 1
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hóa Sơn 4-  phường Hòa Cường Nam-  quận Hải Châu- Tp. Đà Nẵng   ', 16.03156, 108.22834, 987, 'Đ.T.K.P  ', 0
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  đường Châu Thượng Văn-  phường Hòa Cường Bắc-  quận Hải Châu- TP Đà Nẵng  ', 16.04461, 108.22041, 986, 'N.T. T  ', 1
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K95 Nguyễn Du-  phường Thạch Thang-  quận Hải Châu- TP Đà Nẵng  ', 16.07885, 108.22064, 985, 'N.T.S ', 0
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Địa chỉ nhà trọ: Tổ 2 An Ngãi Đông-  xã Hòa Sơn-  huyện Hòa Vang- Tp. Đà Nẵng  ', 15.98322, 108.21014, 975, 'N. T. B. H', 1
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Phú Hòa 2-  xã Hòa Nhơn-  huyện Hòa Vang- Tp. Đà Nẵng ', 15.98322, 108.21014, 974, 'N.V.B ', 1
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K68 Võ Văn Tần-  phường Chính Gián-  quận Thanh Khê- TP Đà Nẵng   ', 16.06678, 108.20237, 968, 'T.C.T ', 0
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K38 Nguyễn Thị Minh Khai-  phường Thạch Thang-  quận Hải Châu- TP Đà Nẵng  ', 16.07469, 108.21793, 967, 'P.T.V.K  ', 0
+);
+
+/* INSERT QUERY NO: 41 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K402 Lê Duẩn-  phường Tân Chính-  quận Thanh Khê-  TP Đà Nẵng   ', 16.06802, 108.20814, 966, 'Đ.T.L  ', 0
+);
+
+/* INSERT QUERY NO: 42 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 4- thôn Giáng Đông-  xã Hòa Châu-  huyện Hòa Vang-  TP Đà Nẵng   ', 15.97766, 108.0497, 965, 'N. T. T. T   ', 0
+);
+
+/* INSERT QUERY NO: 43 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K1120 Trường Chinh-  tổ 11- phường Hòa  Phát- quận Cẩm Lệ-  Tp. Đà Nẵng ', 16.03157, 108.18885, 961, 'N.T.L', 0
+);
+
+/* INSERT QUERY NO: 44 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 01- phường Hòa  Hiệp Bắc- quận Liên  Chiểu- TP Đà Nẵng ', 16.11748, 108.10853, 958, 'H.T. M', 0
+);
+
+/* INSERT QUERY NO: 45 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu Chung cư đường  Hồ Tùng Mậu- phường  Hòa Minh- quận Liên  Chiểu- TP Đà Nẵng ', 16.08156, 108.16294, 957, 'H.T.C ', 0
+);
+
+/* INSERT QUERY NO: 46 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 85 phường An Hải  Bắc- quận Sơn Trà-  Tp. Đà Nẵng  ', 16.06771, 108.24128, 956, 'P.T. T ', 0
+);
+
+/* INSERT QUERY NO: 47 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K1120 Trường Chinh- tổ 9- phường Hòa Phát- quận Cẩm Lệ- Tp. Đà Nẵng. ', 16.03157, 108.18885, 955, 'Đ.T.B.N', 0
+);
+
+/* INSERT QUERY NO: 48 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K882 Trường Chinh- phường Hòa Phát- quận Cẩm Lệ- Tp. Đà Nẵng  ', 16.03157, 108.18885, 954, 'N.N.B.N', 0
+);
+
+/* INSERT QUERY NO: 49 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K882 Trường Chinh-  phường Hòa Phát- quận Cẩm Lệ- Tp. Đà Nẵng  ', 16.03157, 108.18885, 953, 'L.T.K.H  ', 0
+);
+
+/* INSERT QUERY NO: 50 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K882 Trường Chinh-  phường Hòa Phát-  quận Cẩm Lệ-  Tp. Đà Nẵng   ', 16.03157, 108.18885, 952, 'Đ.T. T  ', 0
+);
+
+/* INSERT QUERY NO: 51 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 7 thôn Yến Nê 2- xã  Hòa Tiến- huyện Hòa  Vang- TP Đà Nẵng  ', 15.98322, 108.21014, 945, 'H.L.S.T', 0
+);
+
+/* INSERT QUERY NO: 52 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hòa Nam 5-  phường Hòa An- quận  Cẩm Lệ- TP Đà Nẵng ', 16.05075, 108.17188, 944, 'T. T. M. T', 0
+);
+
+/* INSERT QUERY NO: 53 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K202/H44- đường  Hoàng Văn Thái-  phường Hoà Khánh  Nam- quận Liên Chiểu-  TP Đà Nẵng ', 16.05021, 108.14955, 943, 'H.Q.B', 0
+);
+
+/* INSERT QUERY NO: 54 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trưng Nữ  Vương- phường Hòa  Thuận Tây- quận Hải  Châu- TP Đà Nẵng ', 16.05024, 108.21503, 942, 'T. T. N ', 0
+);
+
+/* INSERT QUERY NO: 55 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 7 thôn Yến Nê 2- xã  Hòa Tiến- huyện Hòa  Vang- TP Đà Nẵng  ', 15.98322, 108.21014, 941, 'N.T. T', 0
+);
+
+/* INSERT QUERY NO: 56 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 7 thôn Yến Nê 2- xã  Hòa Tiến- huyện Hòa  Vang- TP Đà Nẵng  ', 15.98322, 108.21014, 940, 'L.T. D', 0
+);
+
+/* INSERT QUERY NO: 57 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K160 Trần Cao Vân-  phường Tam Thuận-  quận Thanh Khê-  TP Đà Nẵng.  ', 16.07359, 108.20762, 939, 'N.T. T ', 0
+);
+
+/* INSERT QUERY NO: 58 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K160 Trần Cao Vân- tổ 29-  phường Tam Thuận-  quận  Thanh Khê-  TP Đà Nẵng  ', 16.07359, 108.20762, 938, 'N.V.L  ', 0
+);
+
+/* INSERT QUERY NO: 59 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K160 Trần Cao Vân-  phường Tam Thuận-  quận Thanh Khê-  TP Đà Nẵng.  ', 16.07359, 108.20762, 937, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 60 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' H3 K338 Hoàng Diệu-  phường Bình Hiên-  quận Hải Châu-  TP Đà Nẵng   ', 16.05718, 108.21454, 936, 'H.Đ.B  ', 0
+);
+
+/* INSERT QUERY NO: 61 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  thôn Bồ Mưng 1-  xã Điện Thắng Bắc-  huyện Điện Bàn-  tỉnh Quảng Nam ', 15.93899, 108.22554, 935, 'N.L.H', 0
+);
+
+/* INSERT QUERY NO: 62 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Khu đô thị mới ven sông Hòa Quý-  quận Ngũ Hành Sơn-  Tp. Đà Nẵng  ', 15.98459, 108.23607, 927, 'L.T .T. L ', 0
+);
+
+/* INSERT QUERY NO: 63 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K12 Nguyễn Đăng-  phường An Khê- quận  Thanh Khê- TP Đà  Nẵng ', 16.05411, 108.18477, 926, 'T.N.X ', 0
+);
+
+/* INSERT QUERY NO: 64 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Thanh Long- xã  Tam Quang- huyện Núi  Thành- tỉnh Quảng  Nam ', 16.05411, 108.63822, 925, 'H.T.N ', 0
+);
+
+/* INSERT QUERY NO: 65 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' (Từ 2016- bệnh nhân  vào Đà Nẵng làm nghề  chăm sóc bệnh nhân  tại Bệnh viện Đà Nẵng-  không thuê trọ- tất cả  sinh hoạt đều trong  Bệnh viện Đà Nẵng)  ', 16.7603, 106.6566, 924, 'N.T.K.T', 0
+);
+
+/* INSERT QUERY NO: 66 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K148 Ỷ Lan Nguyên  Phi-  phường Hòa  Cường Bắc- quận Hải  Châu- TP Đà Nẵng ', 16.0405, 108.21275, 923, 'L.N.Q.L', 0
+);
+
+/* INSERT QUERY NO: 67 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phạm Nhữ  Tăng- phường Hoà  Khê- quận Thanh Khê-  TP Đà Nẵng  ', 16.06317, 108.18952, 922, 'C.V.C ', 0
+);
+
+/* INSERT QUERY NO: 68 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Lương  Bằng- phường Hoà  Hiệp Nam- quận Liên  Chiểu- Tp. Đà Nẵng ', 16.09483, 108.13834, 921, 'N.T. T', 0
+);
+
+/* INSERT QUERY NO: 69 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Mỹ Phước- xã  Đại Phong- huyện Đại  Lộc- tỉnh Quảng Nam ', 15.85503, 108.05077, 920, 'N.N.T', 0
+);
+
+/* INSERT QUERY NO: 70 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Nhì Tây- xã Bình  Lâm- huyện Hiệp Đức-  tỉnh Quảng Nam ', 15.61627, 108.21748, 919,  N' N.T.T  ', 0
+);
+
+/* INSERT QUERY NO: 71 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khối Hoài Phô-  Cẩm Phô-  TP Hội An-  tỉnh Quảng Nam ', 15.88002, 108.32569, 918, 'T.C.A', 0
+);
+
+/* INSERT QUERY NO: 72 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Điện An-  huyện Điện Bàn-  tỉnh Quảng Nam ', 15.88459, 108.22841, 917, 'T.Đ.H', 0
+);
+
+/* INSERT QUERY NO: 73 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Cát Tân-  huyện Phù Cát-  tỉnh Bình Định ', 13.97847, 109.06196, 916, 'K.V.C', 0
+);
+
+/* INSERT QUERY NO: 74 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 29-  Hòa Thuận Tây-  quận Hải Châu-  TP Đà Nẵng ', 16.0885, 108.21801, 915, 'L.H.C ', 0
+);
+
+/* INSERT QUERY NO: 75 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu dân cư số 2-  thị trấn Sông Vệ-  huyện Tư Nghĩa-  tỉnh Quảng Ngãi. ', 15.04619, 108.84967, 914, 'H.V.P ', 0
+);
+
+/* INSERT QUERY NO: 76 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đống Đa-  phường Thanh Bình-  quận Hải Châu-  TP Đà Nẵng ', 16.07813, 108.21679, 913, 'T.T. K.T', 0
+);
+
+/* INSERT QUERY NO: 77 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K882 Trường Chinh-  phường Hòa Phát- quận  Cẩm Lệ- TP Đà Nẵng ', 16.03157, 108.18885, 897, 'N.V.S', 0
+);
+
+/* INSERT QUERY NO: 78 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113 Trần Xuân Lê-  phường Hòa Khê-  quận Thanh Khê-  TP Đà Nẵng ', 16.05961, 108.18708, 896, 'T.T.X', 0
+);
+
+/* INSERT QUERY NO: 79 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113 Trần Xuân Lê-  phường Hòa Khê-  quận Thanh Khê-  TP Đà Nẵng ', 16.05961, 108.18708, 895, 'P.N.D.Q', 0
+);
+
+/* INSERT QUERY NO: 80 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113 Trần Xuân Lê-  phường Hòa Khê-  quận Thanh Khê-  TP Đà Nẵng ', 16.05961, 108.18708, 894, 'P.N.T. T', 0
+);
+
+/* INSERT QUERY NO: 81 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113 Trần Xuân Lê-  phường Hòa Khê-  quận Thanh Khê-  TP Đà Nẵng ', 16.05961, 108.18708, 893, 'T.T.H', 0
+);
+
+/* INSERT QUERY NO: 82 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113 Trần Xuân Lê-  phường Hòa Khê-  quận Thanh Khê-  TP Đà Nẵng ', 16.05961, 108.18708, 892, 'P.N. L', 0
+);
+
+/* INSERT QUERY NO: 83 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K141 Trần Xuân Lê- phường Hòa Khê-  quận Thanh Khê-  TP Đà Nẵng ', 16.05961, 108.18708, 891, 'N.Đ.D', 0
+);
+
+/* INSERT QUERY NO: 84 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hà Tông Quyên-  phường Khuê Trung-  quận Cẩm Lệ-  Tp. Đà Nẵng  ', 16.0211, 108.2066, 890, 'Đ.S.H ', 0
+);
+
+/* INSERT QUERY NO: 85 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Bàu Mạc 5- phường Hòa Khánh Bắc- quận Liên Chiểu- TP Đà Nẵng ', 16.08481, 108.14893, 889, 'N. S.L', 0
+);
+
+/* INSERT QUERY NO: 86 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Bình Trọng- tổ 3- phường Hải Châu 1- quận Hải Châu- TP Đà Nẵng ', 16.06617, 108.21961, 888, 'N.T.L', 0
+);
+
+/* INSERT QUERY NO: 87 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trường Chinh- phường Hòa Phát- quận Cẩm Lệ- TP Đà Nẵng  ', 16.03157, 108.18885, 887, 'Đ.T.X  ', 0
+);
+
+/* INSERT QUERY NO: 88 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phước Thiện 1- xã Bình Hải- huyện Bình Sơn- tỉnh Quảng Ngãi ', 15.31871, 108.85649, 886, 'L.T.L', 0
+);
+
+/* INSERT QUERY NO: 89 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hàn Thuyên- phường Hòa Cường Bắc- quận Hải Châu- TP Đà Nẵng. ', 16.03936, 108.21621, 885, 'N.T. S ', 0
+);
+
+/* INSERT QUERY NO: 90 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 2 thôn Phò Nam- xã Hòa Bắc- huyện Hòa Vang- TP Đà Nẵng ', 15.98322, 108.21014, 884, 'T.T. T', 0
+);
+
+/* INSERT QUERY NO: 91 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  đường Phan Nhu-  phường Thanh Khê Tây-  quận Thanh Khê-  TP Đà Nẵng  ', 16.07597, 108.17332, 880, 'P.V.N ', 0
+);
+
+/* INSERT QUERY NO: 92 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K96 Thi Sách-  phường Hoà Thuận Tây-  quận Hải Châu- Tp. Đà Nẵng  ', 16.07597, 108.20552, 879, 'N.V.Q  ', 0
+);
+
+/* INSERT QUERY NO: 93 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Khu tập thể 32-  phường Hòa Thuận Tây-  quận Hải Châu-  TP Đà Nẵng  ', 16.04139, 108.20896, 878, 'V.Đ.T ', 0
+);
+
+/* INSERT QUERY NO: 94 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K289 Trường Chinh-  phường An Khê-  quận Thanh Khê-  TP Đà Nẵng  ', 16.04288, 108.18695, 877,  N' V.Đ.Đ ', 0
+);
+
+/* INSERT QUERY NO: 95 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' huyện Duy Xuyên- tỉnh Quảng Nam ', 15.85188, 108.2611, 876, 'N.C', 0
+);
+
+/* INSERT QUERY NO: 96 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'đường Nguyễn Lương Bằng -  Hoà Khánh Bắc -  quận Liên Chiểu -  TP Đà Nẵng.', 16.09483, 108.13834, 875, 'H.L.T. T', 0
+);
+
+/* INSERT QUERY NO: 97 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K105 Ngô Gia Tự -   phường Hải Châu 2 -   quận Hải Châu -   Tp. Đà Nẵng ', 16.06879, 108.21741, 874, 'N.T.B', 0
+);
+
+/* INSERT QUERY NO: 98 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'tổ 7 Yến Nê 2 -  xã Hòa Tiến -  huyện Hòa Vang -  TP Đà Nẵng', 15.98322, 108.21014, 873, 'T.T. T', 0
+);
+
+/* INSERT QUERY NO: 99 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 7 -  thôn Yến Nê 2 -   xã Hoà Tiến -   huyện Hoà Vang -   TP Đà Nẵng   ', 15.98322, 108.21014, 872, 'N.P.M', 0
+);
+
+/* INSERT QUERY NO: 100 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phù Đổng -   phường Hòa Xuân -   quận Cẩm Lệ -   TP Đà Nẵng ', 16.00457, 108.21905, 871, 'Đ.T.H', 0
+);
+
+/* INSERT QUERY NO: 101 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  xã Điện Hồng -  huyện Điện Bàn -  tỉnh Quảng Nam  ', 15.89813, 108.16379, 870, 'T.T. T ', 0
+);
+
+/* INSERT QUERY NO: 102 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  thôn An Ngãi Đông -   xã Hòa Sơn  -  huyện Hòa Vang -   TP Đà Nẵng  ', 15.99181, 108.1596, 869, 'P.T.C  ', 0
+);
+
+/* INSERT QUERY NO: 103 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'tổ 56 -  phường Hòa Khê -  quận Thanh Khê -  Tp. Đà Nẵng', 16.06134, 108.19132, 868, 'N.T.N', 0
+);
+
+/* INSERT QUERY NO: 104 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K112 đường Ngũ  Hành Sơn -  tổ 48 -   phường Mỹ An -   quận Ngũ Hành Sơn -   TP Đà Nẵng  ', 16.05154, 108.23716, 863, 'H.T.N  ', 0
+);
+
+/* INSERT QUERY NO: 105 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' cuối đường Hồ Quý Ly -  tổ 31 -   phường Hoà Minh -  quận Liên Chiểu -   Tp. Đà Nẵng   ', 16.07355, 108.17051, 856, 'N.V.T   ', 0
+);
+
+/* INSERT QUERY NO: 106 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 31 -  phường Hoà Minh -   quận Liên Chiểu -  Tp. Đà Nẵng   ', 16.05213, 108.15848, 855, 'N.T.L   ', 0
+);
+
+/* INSERT QUERY NO: 107 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Duẩn -  tổ 1 -   phường Hải Châu 2 -  quận Hải Châu -   Tp. Đà Nẵng  ', 16.03136, 108.22833, 854, 'N.T.N    ', 0
+);
+
+/* INSERT QUERY NO: 108 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Chung cư A3 Vũng Thùng -   phường Nại Hiên Đông -  quận Sơn Trà -   Tp. Đà Nẵng  ', 16.09823, 108.2342, 853, 'P.T.P  ', 0
+);
+
+/* INSERT QUERY NO: 109 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hoa Phượng 1 -  Euro Village -   phường An Hải Tây -  quận Sơn Trà -   Tp. Đà Nẵng.  ', 16.08162, 108.23398, 852, 'Đ.T.Đ   ', 0
+);
+
+/* INSERT QUERY NO: 110 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  tổ 1 Lệ Sơn Nam -  xã Hoà Tiến -   huyện Hoà Vang -  Tp. Đà Nẵn ', 16.11991, 107.99479, 851, 'L.T.C    ', 0
+);
+
+/* INSERT QUERY NO: 111 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K105 Ngô Gia Tự -  phường Hải Châu 2 -   quận Hải Châu -  Tp. Đà Nẵng   ', 16.06879, 108.21741, 850, 'T.B   ', 0
+);
+
+/* INSERT QUERY NO: 112 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Chung cư B1 -  đường Dương Vân Nga -   phường Nại Hiên Đông -  quận Sơn Trà  -  Tp. Đà Nẵng   ', 16.09172, 108.23162, 849, 'N.T.P.T', 0
+);
+
+/* INSERT QUERY NO: 113 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Thiện Kế -   phường An Hải Đông -  quận Sơn Trà -   Tp. Đà Nẵng.  ', 16.08437, 108.22953, 848, 'N.T. T.H  ', 0
+);
+
+/* INSERT QUERY NO: 114 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  đường Thân Nhân Trung -   phường Hòa Khê -  quận Thanh Khê -   TP Đà Nẵng  ', 16.06322, 108.19147, 846, 'T.T.K  ', 0
+);
+
+/* INSERT QUERY NO: 115 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K149 đường Lê Đình Lý -  phường Hòa Thuận Đông -  quận Hải Châu -  TP Đà Nẵng ', 16.05371, 108.21315, 845, 'H.T. T.N ', 0
+);
+
+/* INSERT QUERY NO: 116 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trường Chinh -  phường Hòa Phát -  quận Cẩm Lệ -  TP Đà Nẵng ', 16.03157, 108.18885, 844, 'N.T.D.P ', 0
+);
+
+/* INSERT QUERY NO: 117 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K402 đường Lê Duẩn -  phường Tân Chính -  quận Thanh Khê -  Tp. Đà Nẵng ', 16.06802, 108.20814, 843, 'T. T. N ', 0
+);
+
+/* INSERT QUERY NO: 118 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu chung cư K3 -   phường Khuê Trung -   quận Cẩm Lệ -  TP Đà Nẵng ', 16.01016, 108.20636, 831, 'Đ.N.M.T', 0
+);
+
+/* INSERT QUERY NO: 119 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phù Đổng -   phường Hoà Xuân -   quận Cẩm Lệ -  TP Đà Nẵng ', 16.00457, 108.21905, 830, 'T. B. P', 0
+);
+
+/* INSERT QUERY NO: 120 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phù Đổng -   phường Hoà Xuân -   quận Cẩm Lệ -  TP Đà Nẵng  ', 16.00457, 108.21905, 829, 'N.T. T', 0
+);
+
+/* INSERT QUERY NO: 121 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phù Đổng -   phường Hoà Xuân -   quận Cẩm Lệ -  TP Đà Nẵng ', 16.00457, 108.21905, 828, 'T.B.S', 0
+);
+
+/* INSERT QUERY NO: 122 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xóm 4 -  thôn An Bình -   xã Nghĩa Kỳ -   huyện Tư Nghĩa -   tỉnh Quảng Ngãi ', 15.11812, 108.74785, 827, 'N.N', 0
+);
+
+/* INSERT QUERY NO: 123 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Vũ Miên -   xã Hòa Phước -   huyện Hòa Vang -   Tp. Đà Nẵng ', 15.98439, 108.20794, 826, 'L.K.T ', 0
+);
+
+/* INSERT QUERY NO: 124 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phù Đổng -   phường Hòa Xuân -   quận Cẩm Lệ -   TP Đà Nẵng ', 16.00457, 108.21905, 825, 'D.T.D', 0
+);
+
+/* INSERT QUERY NO: 125 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đoàn Ngọc Nhạc -   phường Hoà Xuân -   quận Cẩm Lệ -   TP Đà Nẵng ', 15.99813, 108.21554, 824, 'N.V.H', 0
+);
+
+/* INSERT QUERY NO: 126 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 7 -  thôn Yến Nê 2 -   xã Hoà Tiến -  huyện Hoà Vang -   Tp. Đà Nẵng  ', 15.98322, 108.21014, 823, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 127 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đặng Tử Kính -   phường Thạch Thang -   quận Hải Châu -  TP Đà Nẵng  ', 16.07979, 108.2222, 822, 'Đ.T.A.H', 0
+);
+
+/* INSERT QUERY NO: 128 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Ngô Gia Tự -   phường Hải Châu 2 -   quận Hải Châu -   TP Đà Nẵng  ', 16.06879, 108.21741, 821, 'H.T.N', 0
+);
+
+/* INSERT QUERY NO: 129 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K72 Đinh Tiên Hoàng -   phường Thanh Bình -   quận Hải Châu -  TP Đà Nẵng. ', 16.07454, 108.20991, 820, 'V.P.H', 0
+);
+
+/* INSERT QUERY NO: 130 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Thanh Chiêm 1 -   xã Điện Phương -   huyện Điện Bàn -   tỉnh Quảng Nam  ', 15.88937, 108.28195, 819, 'P.N', 0
+);
+
+/* INSERT QUERY NO: 131 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Phú Bông -   xã Duy Trinh -   huyện Duy Xuyên -   tỉnh Quảng Nam ', 15.8274, 108.21247, 818, 'T. T. P', 0
+);
+
+/* INSERT QUERY NO: 132 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K18 Lê Thị Tính -   phường An Khê -   quận Thanh Khê -   TP Đà Nẵng  ', 16.0432, 108.18691, 817, 'N.T.P.H.L', 0
+);
+
+/* INSERT QUERY NO: 133 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tòa A3 Chung cư Vicoland -   phường Nại Hiên Đông -   quận Sơn Trà -  TP Đà Nẵng ', 16.09364, 108.23409, 816, 'L.T. T', 0
+);
+
+/* INSERT QUERY NO: 134 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K297 đường Trường Chinh -   phường An Khê -   quận Thanh Khê -  TP Đà Nẵng  ', 16.04234, 108.18561, 815, 'L.M.T', 0
+);
+
+/* INSERT QUERY NO: 135 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Chung cư A2 Phan Văn Hớn -   phường Thọ Quang -   quận Sơn Trà -  TP Đà Nẵng  ', 16.1057, 108.2602, 814, 'L.T.H  ', 0
+);
+
+/* INSERT QUERY NO: 136 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K09 Hà Văn Trí -   phường Khuê Trung -   quận Cẩm Lệ -  TP Đà Nẵng  ', 16.02835, 108.21103, 813, 'T. T.H    ', 0
+);
+
+/* INSERT QUERY NO: 137 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lý Tế Xuyên -   phường Khuê Trung -   quận Cẩm Lệ -   TP Đà Nẵng ', 16.0202, 108.2088, 810, 'Đ.T.P.T', 0
+);
+
+/* INSERT QUERY NO: 138 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Kiệt 167 đường Tô Hiệu -   phường Hoà Minh -   quận Liên Chiểu -   TP Đà Nẵng  ', 16.06388, 108.14939, 809, 'N.Đ.A', 0
+);
+
+/* INSERT QUERY NO: 139 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Đoàn Ngọc Nhạc -   phường Hoà Xuân -   quận Cẩm Lệ -  TP Đà Nẵng   ', 15.99813, 108.21554, 808, 'N.T.L ', 0
+);
+
+/* INSERT QUERY NO: 140 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Thuê nhà trọ ở tại Tổ 34 -  Đồng Kè -   phường Hòa Khánh Bắc -   quận Liên Chiểu -  TP Đà Nẵng.  ', 16.0732, 108.14582, 807, 'V.T.H    ', 0
+);
+
+/* INSERT QUERY NO: 141 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Thanh Vinh 16 -   phường Hòa Khánh Bắc -   quận Liên Chiểu -  TP Đà Nẵng.  ', 16.07501, 108.12022, 806, 'N.Đ.Q  ', 0
+);
+
+/* INSERT QUERY NO: 142 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K81 Nguyễn Chánh -   quận Liên Chiểu -   TP Đà Nẵng   ', 16.08374, 108.1497, 805, 'L.T. T.P', 0
+);
+
+/* INSERT QUERY NO: 143 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Tăng Bạt Hổ -   phường Hải Châu 2 -   quận Hải Châu -  TP Đà Nẵng   ', 16.06583, 108.2168, 804, 'B.T. T. T', 0
+);
+
+/* INSERT QUERY NO: 144 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Mạc Thị Bưởi -   phường Hoà Cường Nam -   quận Hải Châu -  TP Đà Nẵng  ', 16.02867, 108.21989, 803, 'N.N.Đ  ', 0
+);
+
+/* INSERT QUERY NO: 145 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Chung cư A3 Vũng Thùng -   phường Nại Hiên Đông -   quận Sơn Trà -   TP Đà Nẵng ', 16.09823, 108.2342, 802, 'Đ.T.P', 0
+);
+
+/* INSERT QUERY NO: 146 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Mạc Thị Bưởi -   phường Hoà Cường Nam -   quận Hải Châu -   TP Đà Nẵng ', 16.02867, 108.21989, 801, 'N.V.T', 0
+);
+
+/* INSERT QUERY NO: 147 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K402 đường Lê Duẩn -   phường Tân Chính -   quận Thanh Khê -   Tp. Đà Nẵng ', 16.06802, 108.20814, 800, 'L.C.T', 0
+);
+
+/* INSERT QUERY NO: 148 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K411 đường Hà Huy Tập -   quận Thanh Khê -   TP Đà Nẵng ', 16.0601, 108.18563, 799, 'L.Đ.K', 0
+);
+
+/* INSERT QUERY NO: 149 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K814 đường Trần Cao Vân -   phường Thanh Khê Đông -   quận Thanh Khê -  TP Đà Nẵng. ', 16.07217, 108.18328, 798, 'T.H.D      ', 0
+);
+
+/* INSERT QUERY NO: 150 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu chung cư số 1  đường Lê Phụ Trần -   phường Nại Hiên Đông -   quận Sơn Trà -  TP Đà Nẵng. ', 16.08911, 108.23903, 797, 'T.T.L  ', 0
+);
+
+/* INSERT QUERY NO: 151 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phan Huy Thực -   phường Nại Hiên Đông -   quận Sơn Trà -  TP Đà Nẵng  ', 16.09556, 108.22842, 795, 'Đ.T.M  ', 0
+);
+
+/* INSERT QUERY NO: 152 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Kiệt 105 đường Ngô Quyền -  tổ 77 -   phường Thọ Quang -   quận Sơn Trà -  TP Đà Nẵng ', 16.09263, 108.24395, 784, 'D.V.N  ', 0
+);
+
+/* INSERT QUERY NO: 153 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đội 6 xóm 6A Cộng Hoà 1 -   xã Tịnh Ấn Tây -  TP Quảng Ngãi -   tỉnh Quảng Ngãi  ', 15.15362, 108.78154, 783, 'V.T.C.N  ', 0
+);
+
+/* INSERT QUERY NO: 154 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trưng Nữ Vương -  phường Bình Thuận -  quận Hải Châu -  thành phố Đà Nẵng. ', 16.05024, 108.21503, 782, 'N.T.H.T', 0
+);
+
+/* INSERT QUERY NO: 155 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu chung cư số 1 đường Lê Phụ Trần -  phường Nại Hiên Đông -  quận Sơn Trà -  TP  Đà Nẵng ', 16.08911, 108.23903, 781, 'T.T.L', 0
+);
+
+/* INSERT QUERY NO: 156 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu chung cư số 1 đường Lê Phụ Trần -  phường Nại Hiên Đông -  quận Sơn Trà -  TP  Đà Nẵng ', 16.08911, 108.23903, 780, 'Đ.D.H', 0
+);
+
+/* INSERT QUERY NO: 157 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K211 Nguyễn Văn Thoại -   phường Phước Mỹ -   quận Sơn Trà -  TP Đà Nẵng  ', 16.05727, 108.24364, 771, 'P.T.A.D', 0
+);
+
+/* INSERT QUERY NO: 158 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K211 Nguyễn Văn Thoại -   phường Phước Mỹ -   quận Sơn Trà -  TP Đà Nẵng ', 16.05727, 108.24364, 770, 'L.N.T.O', 0
+);
+
+/* INSERT QUERY NO: 159 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K48 đường NguyễnVăn Linh -  quận Hải Châu -  Tp. Đà Nẵng ', 16.06074, 108.21511, 769, 'N.T.T.H', 0
+);
+
+/* INSERT QUERY NO: 160 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Trung Đông -   xã Duy Trung -   huyện Duy Xuyên -   tỉnh Quảng Nam ', 15.82872, 108.20552, 768, 'Đ.V.L', 0
+);
+
+/* INSERT QUERY NO: 161 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn 5 -  xã Quế Xuân 1 -   huyện Quế Sơn -   tỉnh Quảng Nam ', 15.82139, 108.2932, 767, 'N.B', 0
+);
+
+/* INSERT QUERY NO: 162 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Lê Văn Hiến -   phường Hòa Hải -   quận Ngũ Hành Sơn -   TP Đà Nẵng ', 15.97728, 108.26048, 766, 'Đ.T.C', 0
+);
+
+/* INSERT QUERY NO: 163 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 15 -  thôn Đông Nà -  xã Cẩm Hà -  thành phố Hội An -  tỉnh Quảng Nam ', 15.90037, 108.32185, 765, 'T.T.T', 0
+);
+
+/* INSERT QUERY NO: 164 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K26 Duy Tân -   phường Hòa Thuận Đông -   quận Hải Châu -  TP Đà Nẵng. ', 16.04929, 108.21919, 764, 'T.B', 0
+);
+
+/* INSERT QUERY NO: 165 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K36 Phạm Cự Lượng -   phường An Hải Đông -   quận Sơn Trà -  TP Đà Nẵng ', 16.06044, 108.23629, 763, 'L.V.C', 0
+);
+
+/* INSERT QUERY NO: 166 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Phước Lâm -   Xã Đại Hồng -   huyện Đại Lộc -   tỉnh Quảng Nam ', 15.84465, 107.96913, 762, 'L.X.H ', 0
+);
+
+/* INSERT QUERY NO: 167 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Phú Sơn -   xã An Ninh Đông -   huyện Tuy An -   tỉnh Phú Yên ', 13.34216, 109.26603, 761, 'N.T.T ', 0
+);
+
+/* INSERT QUERY NO: 168 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K379 Trần Cao Vân -   quận Thanh Khê -   TP Đà Nẵng. ', 16.07104, 108.19583, 760, 'N.V.C', 0
+);
+
+/* INSERT QUERY NO: 169 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Phong Ngũ -   xã Điện Thắng -   huyện Điện Bàn -   tỉnh Quảng Nam  ', 15.91777, 108.21954, 759, 'L.T.M', 0
+);
+
+/* INSERT QUERY NO: 170 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 5 -  thôn Tam Hoà -  thị trấn Đông Phú -   huyện Quế Sơn -   tỉnh Quảng Nam ', 15.67233, 108.22119, 758, 'N.N.H', 0
+);
+
+/* INSERT QUERY NO: 171 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K14 đường Bùi Chát -   phường Hoà Khánh Bắc -   quận Liên Chiểu -  TP Đà Nẵng ', 16.08526, 108.1432, 757, 'Đ.Đ.C', 0
+);
+
+/* INSERT QUERY NO: 172 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn An Quang -   xã Bình Thanh -   huyện Bình Sơn -   tỉnh Quảng Ngãi ', 15.37409, 108.75317, 756, 'N.T.T ', 0
+);
+
+/* INSERT QUERY NO: 173 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K211 đường Nguyễn Văn Thoại -   phường Phước Mỹ -   quận Sơn Trà -  TP Đà Nẵng ', 16.05727, 108.24364, 755, 'P.T.B', 0
+);
+
+/* INSERT QUERY NO: 174 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 2 -  thôn Vân Dương 2 -  xã Hòa Liên -  huyện Hòa Vang -  TP Đà Nẵng ', 15.98322, 108.21014, 743, 'N.T.M.C', 0
+);
+
+/* INSERT QUERY NO: 175 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Tăng Bạt Hổ -   phường Hải Châu 2 -   quận Hải Châu -   Đà Nẵng ', 16.06583, 108.2168, 742, 'P.T.P', 0
+);
+
+/* INSERT QUERY NO: 176 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường số 3 -  Khu công nghiệp Hoà Cầm -  quận Cẩm Lệ -  TP Đà Nẵng ', 16.0059, 108.18412, 741, 'V.L.N.T', 0
+);
+
+/* INSERT QUERY NO: 177 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trường Chinh -  phường An Khê -  quận Thanh Khê -  TP Đà Nẵng  ', 16.04269, 108.18531, 740, 'N.T.M.T', 0
+);
+
+/* INSERT QUERY NO: 178 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Phong Thử -  xã Điện thọ -   Điện Bàn -  tỉnh Quảng Nam  ', 15.88886, 108.17649, 739, 'M.T.T', 0
+);
+
+/* INSERT QUERY NO: 179 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Chung cư A2 đường Nguyễn Đăng Tuyển -  quận Sơn Trà -  TP Đà Nẵng  ', 16.10455, 108.25907, 738, 'P.T.T', 0
+);
+
+/* INSERT QUERY NO: 180 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Sáng -  phường Mân Thái -  quận Sơn Trà -  TP Đà Nẵng. ', 16.08726, 108.24656, 737, 'Đ.T.L', -1
+);
+
+/* INSERT QUERY NO: 181 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Văn Hiến -   quận Ngũ Hành Sơn -  TP Đà Nẵng ', 15.97728, 108.26048, 736, 'N.V.H', 0
+);
+
+/* INSERT QUERY NO: 182 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hồ Hán Thương -   phường Nại Hiên Đông -   quận Sơn Trà -   TP Đà Nẵng. ', 16.09272, 108.23016, 735, 'V.T.Đ', 0
+);
+
+/* INSERT QUERY NO: 183 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'Thôn Phú Trung', 21.48024, 105.2776, 734, 'L.T.T.D', 0
+);
+
+/* INSERT QUERY NO: 184 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'K123 đường Cù Chính Lan', 20.43642, 106.1887, 733, 'N.T.T.T ', 0
+);
+
+/* INSERT QUERY NO: 185 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'K38 đường Lê Hữu Trác', 16.05783, 108.23799, 732, 'N.T.S.P', 0
+);
+
+/* INSERT QUERY NO: 186 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'Kiệt 264 Tô Hiệu', 16.06335, 108.1678, 731, 'N.T.P.D', 0
+);
+
+/* INSERT QUERY NO: 187 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Điện Thắng Nam -  Điện Bàn -  tỉnh Quảng Nam ', 15.91777, 108.21954, 730, 'Đ.T.C', 1
+);
+
+/* INSERT QUERY NO: 188 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'K278 đường Trần Cao Vân', 16.07115, 108.1977, 728, 'T.T.H', 0
+);
+
+/* INSERT QUERY NO: 189 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'tổ 7 phường Hòa Hiệp Nam', 10.76911, 106.62691, 727, 'L.Q.V', 0
+);
+
+/* INSERT QUERY NO: 190 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K141 đường Trần Xuân Lê -   tổ 58 ', 16.059, 108.18735, 726, 'L.T.T.T', 0
+);
+
+/* INSERT QUERY NO: 191 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'K814 đường Trần Cao Vân', 16.07217, 108.18328, 725, 'Đ.T.H', 0
+);
+
+/* INSERT QUERY NO: 192 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'đường Mạc Thị Bưởi', 11.57687, 107.85047, 724, 'P.T.A.N', 0
+);
+
+/* INSERT QUERY NO: 193 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K09 đường Hà Văn Trí -   tổ 58 -  Khuê Trung -   Cẩm Lệ -  Tp. Đà Nẵng ', 16.02835, 108.21103, 718, 'V.T.H', -1
+);
+
+/* INSERT QUERY NO: 194 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 6 -  thôn Hội Phước -   xã Hoà Phú -   huyện Hoà Vang -   TP Đà Nẵng ', 15.98854, 108.20888, 713, 'V.H.T', 0
+);
+
+/* INSERT QUERY NO: 195 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K261 đường Tôn Đức Thắng -   phường Hoà Minh -   quận Liên Chiểu -   TP Đà Nẵng ', 16.05609, 108.1701, 712, 'H.T.P', 0
+);
+
+/* INSERT QUERY NO: 196 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K20 đường Hoàng Hoa Thám -   phường Tân Chính -   quận Thanh Khê -   TP Đà Nẵng ', 16.06861, 108.20993, 711, 'P.X.B', 0
+);
+
+/* INSERT QUERY NO: 197 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu dân cư số 6E -   tổ dân phố Trường Thọ Đông B -   phường Trương Quang Trọng -   TP Quảng Ngãi  ', 10.73227, 106.73938, 710, 'P.H.T', 0
+);
+
+/* INSERT QUERY NO: 198 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Sắc Kim -   phường Hoà Xuân -   quận Cẩm Lệ -  TP Đà Nẵng. ', 15.98784, 108.21486, 709, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 199 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Sắc Kim -   phường Hoà Xuân -   quận Cẩm Lệ -  Tp. Đà Nẵng ', 15.98784, 108.21486, 708, 'L.Đ.T ', 0
+);
+
+/* INSERT QUERY NO: 200 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Khoái -   phường Hoà Thuận Tây -   quận Hải Châu -  TP Đà Nẵng ', 16.04214, 108.21096, 707, 'Đ.T.P ', 0
+);
+
+/* INSERT QUERY NO: 201 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Bãi Sậy -   phường Khuê Trung -   quận Cẩm Lệ -  TP Đà Nẵng ', 16.029, 108.21237, 706, 'N.T.N', 0
+);
+
+/* INSERT QUERY NO: 202 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đỗ Anh Hàn -   phường An Hải Bắc -   quận Sơn Trà -  TP Đà Nẵng  ', 16.08393, 108.23327, 705, 'L.T.T ', 0
+);
+
+/* INSERT QUERY NO: 203 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Mỹ Khê 6 -   phường Phước Mỹ -   quận Sơn Trà -  TP Đà Nẵng  ', 16.06339, 108.23987, 704, 'T.N.T', 0
+);
+
+/* INSERT QUERY NO: 204 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Hữu Thọ -   phường Hòa Thuận Tây -   quận Hải Châu -  TP Đà Nẵng ', 16.04646, 108.20964, 703, 'L.T.T.T', 0
+);
+
+/* INSERT QUERY NO: 205 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Hoà Nhơn -   huyện Hoà Vang -   TP Đà Nẵng ', 15.98322, 108.21014, 702, 'N.Đ.T', 0
+);
+
+/* INSERT QUERY NO: 206 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 3 -  thôn Cẩm Toại Đông -   xã Hòa Phong -   huyện Hòa Vang -   Tp. Đà Nẵng ', 16.05042, 108.17254, 701, 'N.T.T ', 0
+);
+
+/* INSERT QUERY NO: 207 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Chung cư A -  đường Hà  Kỳ Ngộ -  phường Phước  Mỹ -  quận Sơn Trà -  TP Đà  Nẵng ', 16.06534, 108.24453, 700, 'N.T.X (N.T.H) ', 0
+);
+
+/* INSERT QUERY NO: 208 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 20 -  phường An Khê -   quận Thanh Khê -  TP Đà  Nẵng ', 16.06164, 108.17993, 699, 'N.D', 0
+);
+
+/* INSERT QUERY NO: 209 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K38 đường 3/2 -  phường  Thuận Phước -  quận Hải  Châu -  TP Đà Nẵng ', 16.08482, 108.22108, 698, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 210 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 02 -  thôn Thạch Nham Tây -   xã Hòa Nhơn -   huyện Hòa Vang -  TP Đà Nẵng ', 16.00033, 108.14533, 697, 'N.T.B', 0
+);
+
+/* INSERT QUERY NO: 211 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K59 đường Núi thành -   quận Hải Châu -  TP Đà Nẵng ', 16.0408, 108.22176, 696, 'N.T.B', 0
+);
+
+/* INSERT QUERY NO: 212 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K175 đường Ông Ích Khiêm -   quận Hải Châu -  TP Đà Nẵng ', 16.07134, 108.21466, 695, 'N.H.Q', 0
+);
+
+/* INSERT QUERY NO: 213 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Kiệt 177 đường Lê Trọng Tấn -   phường Hoà Phát -   quận Cẩm Lệ -  Tp. Đà Nẵng ', 16.03504, 108.17957, 694, 'N.T.Q.S', 0
+);
+
+/* INSERT QUERY NO: 214 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 03 -  thôn Giáng Đông -   xã Hòa Châu -   huyện Hòa Vang -  Tp. Đà Nẵng ', 15.97766, 108.0497, 693, 'N.T.E', 0
+);
+
+/* INSERT QUERY NO: 215 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Miếu Bông -  xã Hòa Phước -   huyện Hòa Vang -  TP Đà Nẵng ', 15.98441, 108.20855, 692, 'N.M.Q', 0
+);
+
+/* INSERT QUERY NO: 216 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Miếu Bông -  xã Hòa Phước -   huyện Hòa Vang -  TP Đà Nẵng.  ', 15.98441, 108.20855, 691, 'T.T.T', 0
+);
+
+/* INSERT QUERY NO: 217 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113  đường Trần Xuân Lê -   phường Hòa Khê -   quận Thanh Khê -   thành phố Đà Nẵng ', 16.05961, 108.18708, 690, 'P.T.Đ', 0
+);
+
+/* INSERT QUERY NO: 218 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Số K113 đường Trần Xuân Lê -   phường Hòa Khê -  quận Thanh Khê -   thành phố Đà Nẵng.  ', 16.05961, 108.18708, 689,  N' N.T.M.D', 0
+);
+
+/* INSERT QUERY NO: 219 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K113 đường Trần Xuân Lê -   phường Hòa Khê -   quận Thanh Khê -   thành phố Đà Nẵng.   ', 16.05961, 108.18708, 688,  N' P.D      ', 0
+);
+
+/* INSERT QUERY NO: 220 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Trương Chí Cương -   phường Hoà Cường Nam -   quận Hải Châu -  TP Đà Nẵng  ', 16.03006, 108.22549, 687, 'M.A.Đ ', 0
+);
+
+/* INSERT QUERY NO: 221 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Nhà B1 -  Chung cư  Cuối tuyến Bạch Đằng Đông -   phường Nại Hiên Đông -   quận Sơn Trà -  Tp. Đà Nẵng  ', 13.2904, 108.4265, 686, 'P.T.T.H ', 0
+);
+
+/* INSERT QUERY NO: 222 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K38 Lê Hữu Trác -   phường An Hải Đông -   quận Sơn Trà -  Tp. Đà Nẵng  ', 16.06022, 108.23559, 685, 'M.A.T ', 1
+);
+
+/* INSERT QUERY NO: 223 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hà Đặc -   quận Sơn Trà -  TP Đà Nẵng   ', 16.06685, 108.24268, 684, 'P.P.P', 0
+);
+
+/* INSERT QUERY NO: 224 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Trưng Nữ Vương -   phường Bình Thuận -   quận Hải Châu -  TP Đà Nẵng  ', 16.05024, 108.21503, 683, 'T.S.Đ  ', 0
+);
+
+/* INSERT QUERY NO: 225 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Chung cư Làng cá  Nại Hiên Đông -   phường Nại Hiên Đông -   quận Sơn Trà. ', 16.09421, 108.23329, 682,  N' V.T.Đ    ', 1
+);
+
+/* INSERT QUERY NO: 226 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Nguyễn Trung Trực -   phường Nại Hiên Đông -   quận Sơn Trà -  Tp. Đà Nẵng ', 16.08437, 108.22953, 681,  N' V.T.Đ    ', 0
+);
+
+/* INSERT QUERY NO: 227 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  K90 đường Phan Bá Phiến -   phường Thọ Quang -    Sơn Trà -  Đà Nẵng ', 16.09313, 108.2477, 680, 'N.T.T.T', 0
+);
+
+/* INSERT QUERY NO: 228 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 03 -  Thôn Cẩm Toại Tây -  xã Hòa Phong -  huyện Hòa Vang -  Tp. Đà Nẵng. ', 15.99119, 108.13706, 668, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 229 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 03 -  Thôn Cẩm Toại Tây -  xã Hòa Phong -  huyện Hòa Vang. (Thường xuyên ở nhà bố mẹ ruột tại thôn An Tân -  xã Hòa Phong -  Hòa Vang) ', 16.7603, 106.656601, 667, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 230 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Duẩn -  quận Thanh Khê -  TP. Đà Nẵng ', 16.06892, 108.20925, 666, 'N.V.C', 0
+);
+
+/* INSERT QUERY NO: 231 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Ký túc xá sinh viên Phía Đông -  14 Doãn Uẩn -  Khuê Mỹ -  Ngũ Hành Sơn -  TP Đà Nẵng. ', 15.98796, 108.24098, 665, 'T.T.C.T', 1
+);
+
+/* INSERT QUERY NO: 232 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trương Chí Cương -  phường Hòa Cường Nam -  quận Hải Châu -  Tp. Đà Nẵng ', 16.03006, 108.22549, 664, 'M.T.P.N', 0
+);
+
+/* INSERT QUERY NO: 233 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K38 Lê Hữu Trác -  phường An Hải Đông -  quận Sơn Trà -  Tp. Đà Nẵng ', 16.06022, 108.23559, 663, 'N.T.B.T   ', 0
+);
+
+/* INSERT QUERY NO: 234 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Thành Vinh 2 -  phường Thọ Quang -  quận Sơn Trà -  Đà Nẵng. ', 16.10575, 108.25118, 662, 'M.T.L', 0
+);
+
+/* INSERT QUERY NO: 235 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đỗ Anh Hàn -  phường An Hải Bắc -  quận Sơn Trà -  TP Đà Nẵng ', 16.08393, 108.23327, 661, 'P.T.T', 0
+);
+
+/* INSERT QUERY NO: 236 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 46 Trương Định -  phường Mân Thái -  quận Sơn Trà -  TP Đà Nẵng ', 16.08919, 108.24605, 660, 'N.T.C.V', 0
+);
+
+/* INSERT QUERY NO: 237 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Mỹ Khê 6 -  phường Phước Mỹ -  quận Sơn Trà -  Tp. Đà Nẵng. ', 16.06339, 108.23987, 659, 'M.T.V', 0
+);
+
+/* INSERT QUERY NO: 238 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Cao Xuân Dục -  phường Thuận Phước -  quận hải Châu -  TP Đà Nẵng. ', 16.08823, 108.21708, 658, 'M.T.G', 0
+);
+
+/* INSERT QUERY NO: 239 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hà Đặc -  phường An Hải Bắc -  quận Sơn Trà -  Tp. Đà Nẵng ', 16.06685, 108.24268, 657, 'L.T.L.H', 0
+);
+
+/* INSERT QUERY NO: 240 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trưng Nữ Vương -   phường Bình Thuận -   quận Hải Châu -  TP Đà Nẵng ', 16.05024, 108.21503, 656, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 241 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Thiện Kế -  phường An Hải Đông -  quận Sơn Trà -  Đà Nẵng ', 16.08437, 108.22953, 655, 'L.Q.A.Q', 0
+);
+
+/* INSERT QUERY NO: 242 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Khu chung cư K3 -  phường Khuê Trung -  quận Cẩm Lệ -  thành phố Đà Nẵng. ', 16.01016, 108.20636, 654, 'Đ.M.T', 0
+);
+
+/* INSERT QUERY NO: 243 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Cao Vân -  phường Xuân Hà -  quận Thanh Khê -  thành phố Đà Nẵng. ', 16.07113, 108.19874, 653, 'T.T.P.L', 0
+);
+
+/* INSERT QUERY NO: 244 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 15 -  phường Hoà Hiệp Bắc -  quận Liên Chiểu -  TP Đà Nẵng ', 16.08481, 108.14893, 652, 'T.T.H.T', 0
+);
+
+/* INSERT QUERY NO: 245 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thị trấn Nam Phước -  huyện Duy Xuyên -  tỉnh Quảng Nam ', 15.85188, 108.2611, 651, 'N.T.H', -1
+);
+
+/* INSERT QUERY NO: 246 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 9 -  Mỹ Xuyên -  thị trấn Nam Phước -  huyện Duy Xuyên -  tỉnh Quảng Nam ', 15.83869, 108.27708, 650, 'N.V.T', 0
+);
+
+/* INSERT QUERY NO: 247 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'Thôn Tân Tự -  xã Phổ Minh -  huyện Đức Phổ -  tỉnh Quảng Ngãi', 14.82271, 108.96891, 649, 'H.T.N ', 0
+);
+
+/* INSERT QUERY NO: 248 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'thôn La Thọ 3 -  xã Điện Hoà -  huyện Điện Bàn -  tỉnh Quảng Nam', 15.94206, 108.18076, 648, 'L.N.L', 0
+);
+
+/* INSERT QUERY NO: 249 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'Tổ 3 -  thôn Tích Phú -  xã Đại Hiệp -  huyện Đại Lộc -  tỉnh Quảng Nam', 15.91783, 108.12622, 647, 'P.T', 0
+);
+
+/* INSERT QUERY NO: 250 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đống Đa -  phường Thuận Phước -  quận Hải Châu -  TP Đà Nẵng ', 16.07813, 108.21679, 646, 'N.N.Q', 0
+);
+
+/* INSERT QUERY NO: 251 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phạm Ngũ Lão -  phường Hải Châu 2 -  quận Hải Châu -  TP Đà Nẵng. ', 16.06739, 108.21482, 642, 'L.VH    ', 0
+);
+
+/* INSERT QUERY NO: 252 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hùng Vương -  phường Hải Châu 1 -  quận Hải Châu ', 16.06841, 108.21945, 641, 'N.T.M.L', 0
+);
+
+/* INSERT QUERY NO: 253 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Lệ Sơn Nam -  xã Hòa Tiến -  huyện Hòa Vang -  thành phố Đà Nẵng. ', 16.0024, 108.20698, 640, 'H.T.H.T', 0
+);
+
+/* INSERT QUERY NO: 254 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Ông Ích Khiêm -  phường Nam Dương -  quận Hải Châu -  Tp. Đà Nẵng ', 16.0631, 108.21573, 639, 'H.T.T.V', 0
+);
+
+/* INSERT QUERY NO: 255 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Lệ Sơn Nam -  xã Hòa Tiến -  huyện Hòa Vang -  TP Đà Nẵng ', 16.0024, 108.20698, 638, 'H.C.T', 1
+);
+
+/* INSERT QUERY NO: 256 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 4 Miếu Bông -   xã Hòa Phước -   huyện Hòa Vang -   thành phố Đà Nẵng. ', 15.98441, 108.20855, 637, 'D.M.H', 0
+);
+
+/* INSERT QUERY NO: 257 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Văn Long -  phường Thanh Bình -  quận Hải Châu -  Tp. Đà Nẵng ', 16.07935, 108.21407, 636, 'H.T.P', 0
+);
+
+/* INSERT QUERY NO: 258 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Ngọc Sơn Tây -  xã Bình Phục -  huyện Thăng Bình -  tỉnh Quảng Nam ', 15.27611, 108.81328, 635, 'N.T.M', 0
+);
+
+/* INSERT QUERY NO: 259 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Dũng Sĩ Thanh Khê -  tổ 43 phường Thanh Khê Tây -  quận Thanh Khê -  TP Đà Nẵng ', 16.0721, 108.17874, 634, 'P.T.T.H', 0
+);
+
+/* INSERT QUERY NO: 260 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Cao Vân -  phường Tam Thuận -  quận Thanh Khê -  thành phố Đà Nẵng ', 16.07113, 108.19874, 633, 'M.T.X.H', 0
+);
+
+/* INSERT QUERY NO: 261 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Cao Vân -  phường Tam Thuận -  quận Thanh Khê -  thành phố Đà Nẵng ', 16.07113, 108.19874, 632, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 262 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Dũng Sĩ Thanh Khê -  phường Thanh Khê Tây -  quận Thanh Khê -  thành phố Đà Nẵng. ', 16.0721, 108.17874, 631, 'P.T.X ', 0
+);
+
+/* INSERT QUERY NO: 263 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Lệ Sơn Nam -  xã Hoà Tiến -  Hoà Vang -  TP Đà Nẵng ', 15.97099, 108.18121, 630, 'Đ.P.K', 0
+);
+
+/* INSERT QUERY NO: 264 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 2 -  Lệ Sơn Nam -  Hoà Tiến -  Hoà Vang -  Đà Nẵng ', 16.03396, 108.21912, 629, 'P.T.T.H', 0
+);
+
+/* INSERT QUERY NO: 265 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 7 -  Thôn Túy Loan Đông 1 -   xã Hòa Phong -   huyện Hòa Vang -  TP Đà Nẵng. ', 16.10022, 108.09323, 628, 'N.T.N', 0
+);
+
+/* INSERT QUERY NO: 266 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Trần Xuân Lê -  phường Hòa Khê -  quận Thanh Khê -  thành phố Đà Nẵng ', 16.05961, 108.18708, 619, 'P.T.D', 0
+);
+
+/* INSERT QUERY NO: 267 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Hải Châu 2 -  quận Hải Châu -  TP Đà Nẵng ', 16.0661, 108.21615, 618, 'T.P.M', 0
+);
+
+/* INSERT QUERY NO: 268 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Hoà Cường Nam -  quận Hải Châu -  TP Đà Nẵng ', 16.03461, 108.23088, 617, 'N.T.M', 0
+);
+
+/* INSERT QUERY NO: 269 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Điện Ngọc -  thị xã Điện Bàn -  tỉnh Quảng Nam  ', 15.95382, 108.23864, 616, 'N.T.T', 0
+);
+
+/* INSERT QUERY NO: 270 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hoàng Diệu -  phường Nam Dương -  quận Hải Châu -  TP Đà Nẵng  ', 16.0575, 108.21707, 615, 'T.T.K.O', 0
+);
+
+/* INSERT QUERY NO: 271 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Lê Văn Hiến -  tổ 54 -  phường Hoà Hải -  quận Ngũ Hành Sơn -  TP Đà Nẵng ', 15.97728, 108.26048, 614, 'L.T.T.N', 0
+);
+
+/* INSERT QUERY NO: 272 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Hòa Thọ Đông -  quận Cẩm Lệ -  thành phố Đà Nẵng ', 16.01213, 108.17759, 613, 'P.T.T.T', 0
+);
+
+/* INSERT QUERY NO: 273 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường An Hải Tây -   quận Sơn Trà -  TP Đà Nẵng ', 16.08168, 108.23225, 612, 'N.V.T', 0
+);
+
+/* INSERT QUERY NO: 274 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thành Vinh 2 -  phường Thọ Quang -  quận Sơn Trà -  Tp. Đà Nẵng ', 16.10575, 108.25118, 611, 'L.T.T', 0
+);
+
+/* INSERT QUERY NO: 275 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn La Sơn -   xã Hoà Khương -   huyện Hoà Vang -   TP Đà Nẵng. ', 16.11991, 107.99479, 610, 'Đ.T.P', 0
+);
+
+/* INSERT QUERY NO: 276 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Hoà Thọ Đông -  quận Cẩm Lệ -  TP Đà Nẵng ', 16.01213, 108.17759, 609, 'H.T.C.H', 0
+);
+
+/* INSERT QUERY NO: 277 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Tổ 34 -  phường An Hải Đông -   quận Sơn Trà -  Tp. Đà Nẵng ', 16.06748, 108.24114, 608, 'M.Đ.X', 0
+);
+
+/* INSERT QUERY NO: 278 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hà Huy Tập -   phường An Khê -   quận Thanh Khê -  Tp. Đà Nẵng ', 16.0601, 108.18563, 607, 'L.T.T', 0
+);
+
+/* INSERT QUERY NO: 279 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Diêu Phong -   xã Hòa Nhơn -   huyện Hòa Vang -   TP Đà Nẵng. ', 16.00033, 108.14533, 606, 'Đ.V.T', 0
+);
+
+/* INSERT QUERY NO: 280 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N'  Xã Quê Châu -   huyện Quế Sơn -   tỉnh Quảng Nam ', 15.67758, 108.24837, 605, 'L.H', 0
+);
+
+/* INSERT QUERY NO: 281 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' phường Hòa Khê -   quận Thanh Khê -  Tp. Đà Nẵng ', 16.06134, 108.19132, 604, 'N.T.D.L', 0
+);
+
+/* INSERT QUERY NO: 282 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đỗ Thúc Tịnh -   P. Khuê Trung -  Q. Cẩm Lệ  -  Đà Nẵng ', 16.02603, 108.20982, 586, 'N.T.N            ', 0
+);
+
+/* INSERT QUERY NO: 283 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' K133 Trưng Nữ Vương -   phường Bình Hiên -  quận  Hải Châu -  Tp. Đà Nẵng ', 16.05712, 108.22049, 582, 'N.T.K.Đ', 0
+);
+
+/* INSERT QUERY NO: 284 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 4 - thôn Lệ Sơn Nam  xã Hòa Tiến huyện Hòa Vang  Tp. Đà Nẵng  ', 16.0024, 108.20698, 581, 'N.K.N ', 1
+);
+
+/* INSERT QUERY NO: 285 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 5 -  Hòa Thọ Đông -   quận Cẩm Lệ -   Tp. Đà Nẵng ', 16.01495, 108.20832, 579, 'P.T.T', 0
+);
+
+/* INSERT QUERY NO: 286 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Duẩn -   phường Hải Châu 2 -  quận Hải Châu -   TP Đà Nẵng. ', 16.03136, 108.22833, 578, 'N.X.T', 0
+);
+
+/* INSERT QUERY NO: 287 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 31 Hoà Minh -   quận Liên Chiểu -  TP Đà Nẵng ', 16.07975, 108.16096, 577, 'P.T.C', 0
+);
+
+/* INSERT QUERY NO: 288 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đỗ Thúc Tịnh -   Khuê Trung -   Cẩm Lệ -  TP Đà Nẵng ', 16.02603, 108.20982, 576, 'T.T.T.C', 0
+);
+
+/* INSERT QUERY NO: 289 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Thanh Thuỷ-  Thanh Bình- Hải Châu- Đà Nẵng ', 16.08343, 108.21411, 575, 'L.T.B', 0
+);
+
+/* INSERT QUERY NO: 290 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Trường Thọ Đông B -   TP Quảng Ngãi ', 15.12757, 108.78423, 574, 'L.T.V', 0
+);
+
+/* INSERT QUERY NO: 291 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' khối 7B Điện Nam Đông -   Điện Bàn -  Quảng Nam ', 15.90468, 108.27202, 573, 'K.TM', 0
+);
+
+/* INSERT QUERY NO: 292 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Trường Thọ Đông B -   TP Quảng Ngãi. ', 15.12757, 108.78423, 572, 'P.H.C', 0
+);
+
+/* INSERT QUERY NO: 293 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Ông Ích Khiêm -   Thạch Thang -   quận Hải Châu -   Đà Nẵng ', 16.07081, 108.21389, 571, 'H.N.D', 0
+);
+
+/* INSERT QUERY NO: 294 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 10 -  phường Hòa Khánh Bắc -  quận Liên Chiểu -  Tp. Đà Nẵng ', 16.08138, 108.13071, 570, 'T.N.Q.T', 0
+);
+
+/* INSERT QUERY NO: 295 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 10 -  phường Hòa  Khánh Bắc -  quận  Liên Chiểu -  Tp. Đà Nẵng ', 16.08138, 108.13071, 569, 'N.T.N.A', 0
+);
+
+/* INSERT QUERY NO: 296 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 5 -  Phú Sơn 2 -  Hòa Khương -  Hòa Vang -  Đà Nẵng ', 16.03117, 108.22734, 558, 'N.T.H', 0
+);
+
+/* INSERT QUERY NO: 297 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 2 -  Lệ Sơn Nam -  Hòa Tiến -  Hòa Vang -  Đà Nẵng ', 16.03396, 108.21912, 557, 'Đ.G.A', 0
+);
+
+/* INSERT QUERY NO: 298 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Vũ Miên- Miếu Bông- Hòa Vang- Đà Nẵng ', 15.98439, 108.20794, 556, 'N.T.M', 1
+);
+
+/* INSERT QUERY NO: 299 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Châu Văn Liêm-  phường Thuận Phước-  quận Hải Châu- thành phố Đà Nẵng ', 16.08344, 108.22034, 555, 'V.V.N', 1
+);
+
+/* INSERT QUERY NO: 300 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thạch Bồ- Hòa Tiến-  Hòa Vang- Đà Nẵng ', 15.97099, 108.18121, 554, 'Đ.P.T', 0
+);
+
+/* INSERT QUERY NO: 301 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 11- phường Khuê Mỹ- quận Ngũ Hành Sơn- thành phố Đà Nẵng. ', 16.04228, 108.23938, 553, 'N.H.H', 0
+);
+
+/* INSERT QUERY NO: 302 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Hạ Nông Đông- xã Điện Phước- huyện Điện Bàn- tỉnh Quảng Nam. ', 15.90468, 108.27202, 552, 'Đ.B', 0
+);
+
+/* INSERT QUERY NO: 303 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 2- thôn Lệ Sơn Nam- xã Hòa Tiến- huyện Hòa Vang- Tp. Đà Nẵng. ', 16.0024, 108.20698, 509, 'V.T.K.L', 1
+);
+
+/* INSERT QUERY NO: 304 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Công Hoan- phường Hòa An- quận Cẩm Lệ- TP Đà Nẵng. ', 16.05217, 108.17555, 508, 'N.H.L', 0
+);
+
+/* INSERT QUERY NO: 305 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phan Huy Ích-  phường An Hải Tây- quận Sơn Trà- TP Đà Nẵng. ', 16.06902, 108.23521, 507, 'B.V.L       ', 0
+);
+
+/* INSERT QUERY NO: 306 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Quế An- huyện Quế Sơn- tỉnh Quảng Nam ', 15.64319, 108.20942, 506, 'N. L', 0
+);
+
+/* INSERT QUERY NO: 307 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phạm Như Xương- Hoà Khánh Nam- Liên Chiểu- thành phố Đà Nẵng ', 16.06471, 108.15115, 505, 'Đ.T.P', 0
+);
+
+/* INSERT QUERY NO: 308 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' tổ 27- thôn  Bến Trễ- xã Cẩm Hà- Hội An- quảng Nam ', 15.90037, 108.32185, 504, 'T.T.T.A', 0
+);
+
+/* INSERT QUERY NO: 309 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Hữu Trác- P. An Hải Đông- Q. Sơn Trà- Tp. Đà Nẵng ', 16.06022, 108.23559, 503, 'N.T.B.T   ', 0
+);
+
+/* INSERT QUERY NO: 310 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 23- phường Nam Dương- quận Hải Châu- TP Đà Nẵng ', 16.08851, 108.21813, 502, 'L. K.T', 0
+);
+
+/* INSERT QUERY NO: 311 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Ông ích Khiêm- phường Nam Dương- quận Hải Châu- TP Đà Nẵng ', 16.0631, 108.21573, 501, 'N.T. T.H', 0
+);
+
+/* INSERT QUERY NO: 312 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Gò Hà- xã Hòa Khương- huyện Hòa Vang- TP Đà Nẵng ', 15.9649, 108.17553, 500, 'N.T.L', 0
+);
+
+/* INSERT QUERY NO: 313 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Cao Vân- phường Xuân Hà- quận Thanh Khê- TP Đà Nẵng. ', 16.07113, 108.19874, 499, 'T.T.B.T', -1
+);
+
+/* INSERT QUERY NO: 314 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Bỉnh Khiêm- phường An Hải Tây- quận Sơn Trà- TP Đà Nẵng ', 16.08277, 108.23274, 498, 'T.T.D', 0
+);
+
+/* INSERT QUERY NO: 315 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Đặng Tử Kính- phường Thạch Thang- quận Hải Châu- TP Đà Nẵng. ', 16.07979, 108.2222, 497, 'T.S.T', 0
+);
+
+/* INSERT QUERY NO: 316 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Yến Nê- xã Hòa Tiến- huyện Hòa Vang- TP Đà Nẵng ', 15.9649, 108.17553, 496, 'N.V.Đ        ', -1
+);
+
+/* INSERT QUERY NO: 317 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' nhà mẹ đẻ tại đường Nguyễn Phan Vinh- Thọ Quang- Sơn Trà- Đà Nẵng; nhà chồng tại đường Ông Ích Khiêm- phường Thanh Bình- Quận Hải Châu- Đà Nẵng. ', 16.7603, 106.656601, 495, 'T.T.L.T', 1
+);
+
+/* INSERT QUERY NO: 318 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 3 - Hòa Thọ - Hòa Phú - Hòa Vang - TP Đà Nẵng  ', 15.98617, 108.07552, 494, 'N.T.B', 0
+);
+
+/* INSERT QUERY NO: 319 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 1 thôn Châu Xuân- xã Bình Định Nam- huyện Thăng Bình- tỉnh Quảng Nam. ', 15.64593, 108.31711, 493, 'N. T. H', 0
+);
+
+/* INSERT QUERY NO: 320 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Quế Xuân 1- Quế Sơn- tỉnh Quảng Nam. ', 15.64593, 108.2932, 492, 'L.V.H', 1
+);
+
+/* INSERT QUERY NO: 321 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Bình Định- huyện Thăng Bình- tỉnh Quảng Nam ', 15.74104, 108.35802, 491, 'T. N. N', 0
+);
+
+/* INSERT QUERY NO: 322 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hoàng Diệu- phường Bình Thuận- quận Hải Châu- Tp. Đà Nẵng ', 16.0575, 108.21707, 490, 'L. N. A', 0
+);
+
+/* INSERT QUERY NO: 323 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Trưng Nữ Vương- phường Bình Thuận- quận Hải Châu- Tp. Đà Nẵng ', 16.05024, 108.21503, 489, 'H. T.N', 1
+);
+
+/* INSERT QUERY NO: 324 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Cao Vân-  tổ 49 phường Tam Thuận-  quận Thanh Khê-  thành phố Đà Nẵng ', 16.07113, 108.19874, 488, 'M.X.H', 0
+);
+
+/* INSERT QUERY NO: 325 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 42 phường Thạch Thang- quận Hải Châu- thành phố Đà Nẵng ', 16.08867, 108.21759, 487, 'V. V. B         ', 0
+);
+
+/* INSERT QUERY NO: 326 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Đình Dương- phường Nam Dương- quận Hải Châu- thành phố Đà Nẵng. ', 16.06163, 108.21966, 486, 'N.V.S ', 0
+);
+
+/* INSERT QUERY NO: 327 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 27 phường Hòa Xuân- quận Cẩm Lệ- thành phố Đà Nẵng ', 16.05228, 108.17765, 485, 'T. T. N', -1
+);
+
+/* INSERT QUERY NO: 328 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 2- phường Châu Hiệp- Thị trấn Nam Phước- huyện Duy Xuyên- tỉnh Quảng Nam. ', 15.83869, 108.27708, 484, 'L.T.T', 0
+);
+
+/* INSERT QUERY NO: 329 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'Không ghi', 22.54465, 103.34903, 483, 'T. T. M', 0
+);
+
+/* INSERT QUERY NO: 330 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 74- phường Hòa Hải- quận Ngũ Hành Sơn- thành phố Đà Nẵng. ', 15.98897, 108.25015, 482, 'Đ.T.L      ', 0
+);
+
+/* INSERT QUERY NO: 331 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Mậu Lâm- xã Đại Hưng- huyện Đại Lộc- tỉnh Quảng Nam ', 15.87429, 107.88145, 481, 'P.T.L', 0
+);
+
+/* INSERT QUERY NO: 332 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 36- An Hải Tây-  quận Sơn Trà- thành phố Đà Nẵng ', 16.06771, 108.24128, 480, 'Đ.T.X.L', 0
+);
+
+/* INSERT QUERY NO: 333 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thị trấn Sông Vệ- huyện Tư Nghĩa- tỉnh Quảng Ngãi ', 15.04619, 108.84967, 479, 'L. N', -1
+);
+
+/* INSERT QUERY NO: 334 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Cẩm Văn Bắc- xã Điện Hồng- huyện Điện Bàn- tỉnh Quảng Nam. ', 15.89813, 108.16379, 478, 'P.V.L', 0
+);
+
+/* INSERT QUERY NO: 335 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Duy Thành- huyện Duy Xuyên- tỉnh Quảng Nam ', 15.82558, 108.31963, 477, 'L.T.S', 0
+);
+
+/* INSERT QUERY NO: 336 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trường Chinh- phường Hoà Phát- quận Cẩm Lệ- TP Đà Nẵng. ', 16.03157, 108.18885, 476, 'H.T.N.D    ', 0
+);
+
+/* INSERT QUERY NO: 337 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Lê Duẩn- phường Tân Chính- quận Thanh Khê- TP Đà Nẵng ', 16.06892, 108.20925, 475, 'Đ.T.L', -1
+);
+
+/* INSERT QUERY NO: 338 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Phạm Như Xương-  Hòa Khánh Bắc-  quận Liên Chiểu-  Tp. Đà Nẵng. ', 16.06471, 108.15115, 474, 'T . T. L       ', 0
+);
+
+/* INSERT QUERY NO: 339 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Thiện Kế-  phường An Hải Đông-  quận Sơn Trà-  thành phố Đà Nẵng. ', 16.08437, 108.22953, 473, 'L.T.B', 0
+);
+
+/* INSERT QUERY NO: 340 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Cẩm Nam-  thành phố Hội An- tỉnh Quảng Nam. ', 15.8981, 108.36242, 472, 'B. E', 0
+);
+
+/* INSERT QUERY NO: 341 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Duy Thành-  huyện Duy Xuyên- tỉnh Quảng Nam ', 15.82558, 108.31963, 471, 'L. T. T. T', 0
+);
+
+/* INSERT QUERY NO: 342 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Dương Bích Liên-  phường Hòa Minh-  quận Liên Chiểu-  TP Đà Nẵng. ', 16.05213, 108.15848, 470, 'B.T.T', 0
+);
+
+/* INSERT QUERY NO: 343 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Tổ 3- Thôn Tích Phú-  xã Đại Hiệp- huyện Đại Lộc-  tỉnh Quảng Nam.   ', 15.91783, 108.12622, 469, 'T.T.H', 1
+);
+
+/* INSERT QUERY NO: 344 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn La Hà- xã Nghĩa Thương- Huyện Tư Nghĩa- Quảng Ngãi ', 15.07732, 108.861, 468, 'T.T.M.L', 0
+);
+
+/* INSERT QUERY NO: 345 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Tân Tự- xã Phổ Minh-  huyện Đức Phổ- Tp. Quảng Ngãi ', 14.82271, 108.96891, 467, 'Đ.T.N.C', 1
+);
+
+/* INSERT QUERY NO: 346 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Trung tâm Bảo trợ xã hội Đà Nẵng- tổ 137- Đà Sơn- Hoà Khánh Nam- quận Liên Chiểu- TP Đà Nẵng ', 16.06439, 108.16032, 466, 'L.V. T', 1
+);
+
+/* INSERT QUERY NO: 347 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Thượng Hiền-  phường Khuê Trung-  quận Cẩm Lệ-  thành phố Đà Nẵng ', 16.02599, 108.21297, 465, 'M. T. L', 1
+);
+
+/* INSERT QUERY NO: 348 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Túy Loan Đông 2-  xã Hòa Phong- huyện Hòa Vang-  thành phố Đà Nẵng. ', 16.10022, 108.09323, 458, 'H.T.T.T', 0
+);
+
+/* INSERT QUERY NO: 349 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hùng Vương- tổ 33-  phường Hải Châu 1-  quận Hải Châu-  thành phố Đà Nẵng. ', 16.03373, 108.21753, 457, 'N.Đ.M', 0
+);
+
+/* INSERT QUERY NO: 350 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hải Phòng-  phường Thạch Thang-  quận Hải Châu-  Tp. Đà Nẵng ', 16.07215, 108.21664, 456, 'Đ.T.T', -1
+);
+
+/* INSERT QUERY NO: 351 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Quê quán: Phù Cát- Bình Định Địa chỉ trọ: Hồ Biểu Chánh- phường Hòa Cường Bắc- quận Hải Châu- thành phố Đà Nẵng (ở một mình). ', 16.7603, 106.656601, 455, 'N.T.B', 1
+);
+
+/* INSERT QUERY NO: 352 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hoàng Diệu- phường Bình Hiên- quận Hải Châu- thành phố Đà Nẵng. ', 16.0575, 108.21707, 454, 'L.T.N.A', 0
+);
+
+/* INSERT QUERY NO: 353 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường An Thượng 15- phường Mỹ An- quận Ngũ Hành Sơn- thành phố Đà Nẵng. ', 16.0575, 108.2418, 453, 'T.T.S', 0
+);
+
+/* INSERT QUERY NO: 354 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+'Điện Trung- Điện Bàn- Quảng Nam', 15.83975, 108.2074, 452, 'H.V.L', 0
+);
+
+/* INSERT QUERY NO: 355 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Bàu Cầu- xã Hòa Châu- huyện Hòa Vang- thành phố Đà Nẵng. ', 15.97766, 108.0497, 451, 'N.T.T.N', 0
+);
+
+/* INSERT QUERY NO: 356 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Tú Mỡ- phường Hòa An- quận Cẩm Lệ- thành phố Đà Nẵng ', 16.05296, 108.17298, 446, 'L.T.T', 0
+);
+
+/* INSERT QUERY NO: 357 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Duy Tân- phường Hòa Thuận Đông- quận Hải Châu- Tp. Đà Nẵng ', 16.05002, 108.21011, 445, 'T.T.N.H', 1
+);
+
+/* INSERT QUERY NO: 358 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' An Ngãi Tây 1- Hòa Sơn- Hòa Vang- Đà Nẵng ', 16.05002, 108.17759, 444, 'N.T.Đ', 0
+);
+
+/* INSERT QUERY NO: 359 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Nam Hà 1- xã Điện Trung- thị xã Điện Bàn- tỉnh Quảng Nam ', 15.91751, 108.26599, 443, 'L.T.B', 0
+);
+
+/* INSERT QUERY NO: 360 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Hòa Hải- quận Ngũ Hành Sơn- thành phố Đà Nẵng  ', 15.98897, 108.25015, 442, 'T.T.H', 1
+);
+
+/* INSERT QUERY NO: 361 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Làng Mạ- huyện Ba Tơ- tỉnh Quảng Ngãi ', 14.76323, 108.73087, 441, 'N.T.O', 1
+);
+
+/* INSERT QUERY NO: 362 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Hòa Hữu Tây- xã Đại Hồng- huyện Đại Lộc- tỉnh Quảng Nam ', 15.84465, 107.96913, 440, 'T.T.T.T', 0
+);
+
+/* INSERT QUERY NO: 363 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Điện Biên Phủ-  phường Thanh Khê Tây- quận Thanh Khê- Tp. Đà Nẵng  ', 16.06575, 108.19243, 439, 'L.T.V.Đ', 0
+);
+
+/* INSERT QUERY NO: 364 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Trần Cao Vân-  phường Tam Thuận- quận Thanh Khê-  thành phố Đà Nẵng. ', 16.07113, 108.19874, 438, 'Đ.N.T', 0
+);
+
+/* INSERT QUERY NO: 365 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Nguyễn Công Hoan-  phường Hòa An- quận Cẩm Lệ- TP Đà Nẵng ', 16.05217, 108.17555, 437, 'N.H.L', -1
+);
+
+/* INSERT QUERY NO: 366 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Nam Hà 1-  xã Điện Trung-  thị xã Điện Bàn- tỉnh Quảng Nam ', 15.91751, 108.26599, 436, 'N.V.M', -1
+);
+
+/* INSERT QUERY NO: 367 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Hoàng Hoa Thám-  phường Vĩnh Trung- quận Thanh Khê- Tp. Đà Nẵng  ', 16.06861, 108.20993, 435, 'N.Y.T', 1
+);
+
+/* INSERT QUERY NO: 368 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Đường Lê Hữu Trác-  phường An Hải Đông- quận Sơn Trà-  thành phố Đà Nẵng. ', 16.06022, 108.23559, 434, 'H.T.N', 0
+);
+
+/* INSERT QUERY NO: 369 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Âu Cơ-  phường Hoà Khánh Bắc- quận Liên Chiểu-  TP. Đà Nẵng. ', 16.07467, 108.1342, 431, 'N.K', -1
+);
+
+/* INSERT QUERY NO: 370 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hoàng Văn Thái-  phường Hoà Khánh Nam-  quận Liên Chiểu-  thành phố Đà Nẵng ', 16.05021, 108.14955, 430, 'T.T.N.V', -1
+);
+
+/* INSERT QUERY NO: 371 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Phường Hoà hiệp Bắc-  quận Liên Chiểu- thành phố Đà Nẵng ', 16.09708, 108.14393, 429, 'N.T.L', -1
+);
+
+/* INSERT QUERY NO: 372 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' phường Minh An-  thành phố Hội An  tỉnh Quảng Nam ', 17.4685, 106.6218, 428, 'B.T', -1
+);
+
+/* INSERT QUERY NO: 373 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' Thôn Hoà Thọ-  Xã Hoà Phú-  huyện Hoà Vang- thành phố Đà Nẵng. ', 15.98617, 108.07552, 427, 'T.T.P', 0
+);
+
+/* INSERT QUERY NO: 374 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Hoà Khương-  huyện Hoà Vang- thành phố Đà Nẵng ', 15.9649, 108.17553, 426, 'T.T.P', -1
+);
+
+/* INSERT QUERY NO: 375 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' xã Điện Hòa-  huyện Điện Bàn- tỉnh Quảng Nam ', 15.94206, 108.18076, 425, 'N.T.H.T', 1
+);
+
+/* INSERT QUERY NO: 376 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Hà Huy Tập-  phường Hòa Khê- quận Thanh Khê-  TP. Đà Nẵng. ', 16.0601, 108.18563, 424, 'N.T.M.L', 1
+);
+
+/* INSERT QUERY NO: 377 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' thôn Dương Sơn-  xã Hòa Châu- huyện Hòa Vang-  TP. Đà Nẵng ', 15.99691, 108.21086, 423, 'H.T.T', 1
+);
+
+/* INSERT QUERY NO: 378 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' phường Hòa Minh-  quận Liên Chiểu- thành phố Đà Nẵng. ', 16.05213, 108.15848, 422, 'N.D', 0
+);
+
+/* INSERT QUERY NO: 379 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' đường Trần Cao Vân-  phường Tam Thuận- quận Thanh Khê-  thành phố Đà Nẵng. ', 16.07113, 108.19874, 421, 'L.Đ.H', 0
+);
+
+/* INSERT QUERY NO: 380 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' phường Hòa Cường Nam-  quận Hải Châu- thành phố Đà Nẵng ', 16.03461, 108.23088, 420, 'P.T.B.P', 0
+);
+
+/* INSERT QUERY NO: 381 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' phường Thanh Bình-  quận Hải Châu- thành phố Đà Nẵng ', 16.08236, 108.21302, 418, 'N.V.N', 0
+);
+
+/* INSERT QUERY NO: 382 */
+INSERT INTO patient(bnAddress, bnX, bnY, bnCode, bnName, status)
+VALUES
+(
+ N' phường Hòa Khánh Bắc-  quận Liên Chiểu-  thành phố Đà Nẵng ', 16.07591, 108.14428, 416, 'T.V.D', 0
+);

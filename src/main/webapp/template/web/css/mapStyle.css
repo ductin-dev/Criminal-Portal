@@ -1,0 +1,231 @@
+/*----------*/
+.dialog-ovelay {
+    margin: 0;
+    padding: 0;
+    max-width: 400px;
+}
+
+.dialog-ovelay .dialog {
+    margin: 0;
+    padding: 0;
+}
+
+.dialog-ovelay .dialog header {
+    background-image: url("/template/web/img/header.png");
+    background-color: #f6f7f9;
+    border-bottom: 1px solid #e5e5e5;
+    margin: 0;
+    width: 400px;
+    height: 50px;
+}
+
+.dialog-ovelay .dialog footer {
+    background-image: url("/template/web/img/footer.png");
+    margin: 0;
+    width: 400px;
+    height: 25px;
+}
+
+.dialog-ovelay .dialog .dialog-msg h2 {
+    background-color: lightgray;
+    text-align: center;
+    margin: 0;
+    color: #d32f2f;
+}
+
+.dialog-ovelay .dialog .dialog-msg p,h5{
+    font-family: Arial, sans-serif;
+}
+
+.dialog-ovelay .dialog .dialog-msg .patient-content {
+    background-color: #d32f2f;
+    margin: 0;
+    color: #ffffff;
+    padding: 4px;
+}
+
+.dialog-ovelay .dialog .dialog-msg .charity-name {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-color: #d32f2f;
+    margin: 0;
+    padding: 4px;
+    color: #ffffff;
+}
+
+
+.dialog-ovelay .dialog footer {
+    border-top: 1px solid #e5e5e5;
+    padding: 8px 10px
+}
+
+.dialog-ovelay .dialog footer .controls {
+    direction: rtl
+}
+
+.dialog-ovelay .dialog footer .controls .button {
+    padding: 5px 15px;
+    border-radius: 3px
+}
+
+
+#noteMap {
+    width: 150px;
+    height: 110px;
+    font-size: 14px;
+    z-index: 10;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+#noteMap button {
+    background-color: #f5f5f5;
+    border: none;
+    border-bottom: 1px solid green;
+    width: 100%;
+    text-align: left;
+}
+
+#noteMap button:hover {
+    background-color: lightblue;
+}
+
+.zmdi-menu{
+    position: absolute;
+    z-index: 9;
+    height: 100%;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.zmdi-menu:hover{
+    cursor: pointer;
+
+}
+
+#search-box-form{
+    margin-top: 20px;
+    height: 30px;
+    width: 50%;
+}
+
+.search-box{
+    padding: 5px;
+    padding-left: 30px;
+    width: 80%;
+    font-size: 15px;
+    border-style: outset;
+    border-radius: 5px;
+}
+.buttonSearch{
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
+.advanced-search{
+    padding: 3px;
+    display: none;
+}
+.advanced-search .search-box{
+    width:70%;
+    margin-left:5%;
+    padding: 4px;
+}
+.buttonSearch{
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.buttonSearch img{
+    padding: 0;
+    margin: 0;
+}
+#yourLocation{
+    margin-right: 10px;
+    cursor: pointer;
+    display: none;
+}
+
+#listing{
+    height: 85%;
+    width: 20%;
+    background-color: white;
+    border-style: outset;
+    border-radius: 5px;
+    opacity: 0.8;
+    cursor: pointer;
+    display:none;
+    overflow-y: auto;
+}
+#results div{
+    padding: 10px;
+    border-bottom: solid 2px;
+}
+#results div:hover{
+    background-color: #a6baf7;
+}
+.nameTr{
+    font-weight: bold;
+    font-size: 14px;
+}
+.star-checked{
+    color: orange;
+}
+.distanceSpan{
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 20%;
+}
+.zmdi-alert-triangle{
+    font-size:15px;
+    color:orange;
+}
+.zmdi-alert-polygon{
+    font-size:15px;
+    color:red;
+}
+.zmdi-close-circle{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    font-size: 25px;
+    color: #d32f2f;
+}
+
+.zmdi-shield-check{
+    font-size:15px;
+    color:green;
+}
+
+.zmdi-plus-circle{
+    color:green;
+}
+
+.iw_table_row {
+    height: 18px;
+}
+
+.iw_attribute_name {
+    font-weight: bold;
+    text-align: left;
+}
+.iw_attribute_icon {
+    text-align: right;
+}
+
+.iw_table_icon {
+    text-align: right;
+}
+
+.placeIcon {
+    width: 24px;
+    height: 24px;
+}
+
+/*Fix autocomplete dropdown not work in fullscreen*/
+.fullscreen-pac-container[style]{
+    z-index: 2547483647 !important;
+    top:50px !important;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Database Covid" uuid="fea1b700-65b1-4bd7-9b77-f10f15205ed2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://103.97.125.251:3306/satellit_CovidTracker</jdbc-url>
+    </data-source>
+  </component>
+</project>
